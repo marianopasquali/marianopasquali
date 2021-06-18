@@ -11,15 +11,9 @@
     <strong>Soy desarrollador Frontend</strong> y un apasionado de la tecnología, incursione en este hermoso mundo de la programación dado que no solo lo considero muy divertido sino que también es la base de nuestra sociedad.  
 </p>
 
-<p align="center">
-
-    Mi meta como desarrollador web es contribuir a los objetivos estratégicos de la organización mediante el desarrollo de soluciones eficaces <br/>
+-   Mi meta como desarrollador web es contribuir a los objetivos estratégicos de la organización mediante el desarrollo de soluciones eficaces
     y eficientes utilizando tecnologías de vanguardia y metodologías de trabajo agiles, soy una persona proactiva y dinámica con excelentes
-    <br/>
     capacidades de adaptación a los desafíos y cambios continuos que se encuentran dentro de nuestro contexto actual. Hoy estoy tratando de
-    <br/>
     consolidarme como Frontend developer, en un entorno que promueva el dinamismo y el trabajo en equipo.
-
-</p>
 
 <h3 align="center"> Te podes comunicar conmigo a <a href="mailto:marian.pasquali@gmail.com">marian.pasquali@gmail.com</a> o a través de mi <a target="_blank" href="https://www.linkedin.com/in/mariano-yael-pasquali-678615178/"><strong>Linkedin</strong></a></h3>
