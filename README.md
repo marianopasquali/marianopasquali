@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <strong>Soy desarrollador Frontend</strong> y un apasionado de la tecnología, incursione en este hermoso mundo de la programación dado que no solo lo considero muy divertido sino que también es la base de nuestra sociedad.  
+    <strong>Soy desarrollador Frontend</strong> y un apasionado de la tecnología. Incursione en este hermoso mundo de la programación dado que no solo lo considero muy divertido sino que es la base de nuestra sociedad.  
 </p>
 
 -   Mi meta como desarrollador web es contribuir a los objetivos estratégicos de la organización mediante el desarrollo de soluciones eficaces
