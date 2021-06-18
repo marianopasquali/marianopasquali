@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/marianopasquali/marianopasquali/master/assets/foto.png" alt="Mariano Pasquali" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/marianopasquali/marianopasquali/main/assets/foto.png" alt="Mariano Pasquali" />
 </p>
 <p align="center" width="300">
     <h2 align="center">👋 Hola 👋</h2>
