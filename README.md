@@ -16,4 +16,4 @@
     capacidades de adaptación a los desafíos y cambios continuos que se encuentran dentro de nuestro contexto actual. Hoy estoy tratando de
     consolidarme como Frontend developer, en un entorno que promueva el dinamismo y el trabajo en equipo.
 
-<h3 align="center"> Te podes comunicar conmigo a <a href="mailto:marian.pasquali@gmail.com">marian.pasquali@gmail.com</a> o a través de mi <a target="_blank" href="https://www.linkedin.com/in/mariano-yael-pasquali-678615178/"><strong>Linkedin</strong></a></h3>
+<h3 align="center"> Te podes comunicar conmigo a <a href="mailto:marian.pasquali@gmail.com">marian.pasquali@gmail.com</a> o a través de mi <a target="_blank" href="https://www.linkedin.com/in/mariano-pasquali"><strong>Linkedin</strong></a></h3>
